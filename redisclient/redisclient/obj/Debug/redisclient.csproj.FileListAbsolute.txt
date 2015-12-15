@@ -1,0 +1,9 @@
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\redisclient.exe.config
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\redisclient.exe
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\redisclient.pdb
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\StackExchange.Redis.dll
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\StackExchange.Redis.pdb
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\bin\Debug\StackExchange.Redis.xml
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\obj\Debug\redisclient.csprojResolveAssemblyReference.cache
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\obj\Debug\redisclient.exe
+X:\XXXWorkspace\azurerediscache\redisclient\redisclient\redisclient\obj\Debug\redisclient.pdb
